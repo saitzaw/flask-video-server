@@ -19,7 +19,6 @@ My requirements.txt is too large
 - Flask-Assets
 - Flask-Compress
 - Flask-JWT
-- flask-form 
 - flask-sqlalchemy 
 - flask-nav 
 - flask-marshmallow
