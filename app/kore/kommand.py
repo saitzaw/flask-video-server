@@ -4,7 +4,7 @@ import os
 from ..constants import ffmpeg_const 
 
 class Kommand: 
-  path = Config.
+  path = ffmpeg_const.const
   
   @classmethod 
   def create_dir(cls,name): 
