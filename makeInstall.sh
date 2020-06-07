@@ -1,3 +1,4 @@
+#!/bin/bash 
 # check the opeartion system 
 # Test only in Ubuntu 
 # This shell script is a helper for python

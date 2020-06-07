@@ -12,4 +12,3 @@ flask run app.py
 use the UWSGI socket 
 
 
-
